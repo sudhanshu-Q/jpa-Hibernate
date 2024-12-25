@@ -1,0 +1,6 @@
+insert into course(id,name,author)
+values(12,'learn java','John');
+
+select * from course;
+
+delete from course where id=12;
